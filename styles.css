@@ -61,7 +61,11 @@ header {
 }
 
 section article {
-    color: #4d4e53;
+    color: black;
     margin: 15px;
     font-size: 0.96em;
+}
+
+#main-doc table td {
+    padding: 0 12px;
 }
