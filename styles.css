@@ -69,3 +69,7 @@ section article {
 #main-doc table td {
     padding: 0 12px;
 }
+
+article {
+    text-align: center;
+}
